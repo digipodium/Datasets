@@ -1,0 +1,12 @@
+country,salary,age,happy
+germany,49000,35,yes
+spain,10000,30,no
+italy,230000,39,no
+spain,200000,30,yes
+italy,300000,30,yes
+spain,31000,23,no
+germany,,34,yes
+spain,400000,,yes
+italy,200000,29,no
+italy,340000,35,yes
+germany,30000,25,yes

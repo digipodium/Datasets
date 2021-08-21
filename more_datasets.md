@@ -1,0 +1,15 @@
+# data set links 
+- <a href="https://www.kaggle.com/shivam2503/diamonds">Diamonds Dataset</a>
+- <a href="https://www.kaggle.com/rodolfomendes/abalone-dataset">Abalone Dataset</a>
+- <a href="https://www.kaggle.com/harlfoxem/housesalesprediction">House sales prediction</a>
+- <a href="https://data.world/nrippner/ols-regression-challenge">Cancer death rate</a>
+- <a href="https://www.kaggle.com/kumarajarshi/life-expectancy-who/">Life Expectancy dataset</a>
+- <a href="https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?ref=hackernoon.com&select=Car+details+v3.csv">Car prices</a>
+- <a href="https://data.world/exercises/logistic-regression-exercise-1">NBA Players</a>
+- <a href="https://www.kaggle.com/fedesoriano/stroke-prediction-dataset">stroke prediction dataset</a>
+- <a href="https://www.kaggle.com/adityakadiwal/water-potability">Drinking water dataset</a>
+- <a href="https://www.kaggle.com/pcbreviglieri/smart-grid-stability">Smart grid dataset</a>
+- <a href="https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset">IBM employee dataset</a>
+- <a href="https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data">Bank note dataset</a>
+- <a href="https://www.kaggle.com/wenruliu/adult-income-dataset">income dataset</a>
+- <a href="https://www.openml.org/d/181">Yeast Classification</a>
